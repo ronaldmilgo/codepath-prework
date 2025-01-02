@@ -39,10 +39,10 @@ Offline maps for location access without data
 #### APP IDEA
 Adventures - Personalized Travel Assistant
 
-######Concept:
+###### Concept:
 Adventures is a personalized travel assistant designed to help users plan and experience their dream trips based on their unique preferences. The app tailors recommendations for destinations, activities, and experiences depending on whether users are looking for adventure, relaxation, culture, food, or local hidden gems. It focuses on delivering a customized, seamless travel experience, from building itineraries to booking activities and managing budgets.
 
-######Key Features:
+###### Key Features:
 
 Personalized Itinerary Builder: Users input their preferences (e.g., adventure, food, relaxation), and the app suggests a travel itinerary, complete with activities, landmarks, restaurants, and local experiences.
 Local Experience Integration: The app partners with local guides, activity providers, and events, offering users access to authentic experiences that can be easily booked directly through the app.
