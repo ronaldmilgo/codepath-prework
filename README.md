@@ -1,8 +1,8 @@
-# Prework - Adventures
+# Prework - ColorChangerApp
 
 Submitted by: Ronald Milgo
 
-Adventures is an app that helps users plan personalized travel itineraries based on their preferences (e.g., adventure, relaxation, food, culture). It could suggest activities, local experiences, and provide budget tracking.
+ColorChangerApp is an app that allows users to tap a button and change the background color of the app to a random color. The app also displays three labels with information about the user, such as their name, university, and their job or aspirational job.
 
 Time spent: **X** hours spent in total
 
@@ -36,7 +36,7 @@ Real-time traffic updates and alternate routes
 Voice-guided navigation
 Offline maps for location access without data
 
-#### APP IDEA
+#### MY APP IDEA
 Adventures - Personalized Travel Assistant
 
 ###### Concept:
@@ -52,11 +52,14 @@ Offline Access: Users can download their itinerary and maps for offline use, ens
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app:
 
+Initial confusion about how to link the UI elements to the ViewController code.
+Struggled a bit with the attributes of the button and getting it to stand out visually.
+Adjusting the layout for different screen sizes was tricky at first.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Ronald Milgo
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
