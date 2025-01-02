@@ -4,7 +4,7 @@ Submitted by: Ronald Milgo
 
 ColorChangerApp is an app that allows users to tap a button and change the background color of the app to a random color. The app also displays three labels with information about the user, such as their name, university, and their job or aspirational job.
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
